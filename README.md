@@ -8,15 +8,15 @@ This project provides a comprehensive analysis of the Vrinda Store's sales perfo
 - Features Used: Data Cleaning, Pivot Tables, Pivot Charts, Slicers, Timeline, and Advanced Formulas.
 - Concepts: ETL(Extract, Transform, Load), Data Visualization, Business Intelligence.
 
-  ## Key Insights
+## Key Insights
   - Women are the primary drivers of revenue, according for 64% of total sales.
   - March showed the highest sales volume, suggesting a seasonal trend or successful promotion.
   - Amazon is the leading sales channel 35.5%, followed by Myntra and Flipkart.
   - Maharashtra is the highest-contributing state, followed by Karnataka and Uttar Pradesh.
 
-    ## Project Files
-     - Vrinda_Store_Data.xlsx - contains raw data, cleaning steps, and the final dashboard.
-     - Dashboard-Preview:-
+ ## Project Files
+  - Vrinda_Store_Data.xlsx - contains raw data, cleaning steps, and the final dashboard.
+  - Dashboard-Preview:-(https://github.com/Kalpana-gupta05/Vrinda-Store-Sales-Analysis-Excel/blob/cc93bc1d1b737981d009098bbe3b03c0f5ce82e7/Screenshot%20(3).png)
        
-     ## Author
-    Kalpana Gupta  
+ ## Author
+ Kalpana Gupta  
